@@ -2,7 +2,10 @@
 
 # `Cloudstream3 Plugin Repo Template`
 
-Template for a [Cloudstream3](https://github.com/recloudstream) plugin repo
+Template for a [Cloudstream3][(https://github.com/recloudstream)](https://raw.githubusercontent.com/HaremCaffeine/CloudPlugins/builds/plugins.json). plugin repo
+
+Directly copy this repo url and paste into the application:
+https://raw.githubusercontent.com/HaremCaffeine/CloudPlugins/builds/plugins.json
 
 **⚠️ Make sure you check "Include all branches" when using this template**
 
