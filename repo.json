@@ -1,0 +1,8 @@
+{
+  "name": "Harem Caffeine Repo",
+  "description": "All the extensions I use in one place",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/HaremCaffeine/CloudPlugins/builds/plugins.json"
+  ]
+}
